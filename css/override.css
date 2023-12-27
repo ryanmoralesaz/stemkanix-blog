@@ -1,0 +1,11 @@
+body {
+  background-color: orange;
+  text-align: center;
+}
+main {
+  background-color: yellow;
+  opacity: 0.5;
+  width: 80vw;
+  text-align: center;
+  margin: auto;
+}
